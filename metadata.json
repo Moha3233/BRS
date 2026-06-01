@@ -1,0 +1,6 @@
+{
+  "name": "BrahmaVivek",
+  "description": "Computational biology platform with project tracking, workflow automation, and analysis tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
